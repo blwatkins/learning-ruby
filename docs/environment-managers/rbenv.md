@@ -8,7 +8,7 @@
 
 Install `rbenv` with Homebrew
 
-```console
+```
 $ brew update
 $ brew install rbenv ruby-build
 ```
@@ -17,7 +17,7 @@ $ brew install rbenv ruby-build
 
 See the current `rbenv` version
 
-```console
+```
 $ rbenv --version
 ```
 
@@ -25,7 +25,7 @@ $ rbenv --version
 
 Install a new version of Ruby
 
-```console
+```
 $ rbenv install <version_tag>
 ```
 
@@ -33,7 +33,7 @@ $ rbenv install <version_tag>
 
 See all installed versions of Ruby
 
-```console
+```
 $ rbenv versions
 ```
 
@@ -41,7 +41,7 @@ $ rbenv versions
 
 See the current version of Ruby being used in the session
 
-```console
+```
 $ rbenv version
 ```
 
@@ -49,7 +49,7 @@ $ rbenv version
 
 Set the version of ruby that should be used in the current directory
 
-```console
+```
 $ rbenv local <version_tag>
 ```
 
@@ -57,7 +57,7 @@ $ rbenv local <version_tag>
 
 Unset the local version of Ruby
 
-```console
+```
 $ rbenv local --unset
 ```
 
@@ -65,7 +65,7 @@ $ rbenv local --unset
 
 Set the global version of Ruby
 
-```console
+```
 $ rbenv global <version_tag>
 ```
 
@@ -73,7 +73,7 @@ $ rbenv global <version_tag>
 
 See which executable will be run for the given `command`
 
-```console
+```
 $ rbenv which <command>
 ```
 
@@ -81,6 +81,6 @@ $ rbenv which <command>
 
 See which versions of Ruby have the executable for the given `command`
 
-```console
+```
 $ rbenv whence <command>
 ```
