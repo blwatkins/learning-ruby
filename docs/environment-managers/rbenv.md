@@ -1,4 +1,4 @@
-# [rbenv](https://github.com/rbenv/rbenv)
+# <a href="https://github.com/rbenv/rbenv" target="_blank" rel="noopener noreferrer">rbenv</a>
 
 `rbenv` is a version manager tool for the Ruby programming language on Unix-like systems.
 
