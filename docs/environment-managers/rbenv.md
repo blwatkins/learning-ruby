@@ -15,6 +15,15 @@ $ brew install rbenv ruby-build
 
 ----
 
+Update `rbenv` to the latest version
+
+```
+$ brew update
+$ brew upgrade rbenv ruby-build
+```
+
+----
+
 See the current `rbenv` version
 
 ```
