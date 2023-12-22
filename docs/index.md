@@ -1,9 +1,9 @@
-# learning ruby
+# Learning Ruby
 
-learning resources and notes for the <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noopener noreferrer">ruby programming language</a>.
+Learning resources and notes for the <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noopener noreferrer">Ruby programming language</a>.
 
 ----
 
-# Environment Managers
+# Version Managers
 
-## [rbenv](./environment-managers/rbenv.md)
+## [rbenv](./version-managers/rbenv.md)
