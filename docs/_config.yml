@@ -3,7 +3,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: learning ruby
-description: learning resources and notes for the ruby programming language.
+title: Learning Ruby
+description: Learning resources and notes for the Ruby programming language.
 logo: "https://brittni-and-the-polar-bear.github.io/assets/img/logo.png"
 show_downloads: false
