@@ -93,3 +93,5 @@ See which versions of Ruby have the executable for the given `command`
 ```
 $ rbenv whence <command>
 ```
+
+----
